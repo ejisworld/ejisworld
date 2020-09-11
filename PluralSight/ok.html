@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+<p id = "cold"></p>
+  </body>
+</html>
+<script type="text/javascript">
+  function weatherCondition(appearance){
+    appearance:"partly sunny";
+    cloud:40
+    return appearance;
+  }
+
+  const display = weatherCondition();
+  document.getElementById("cold").innerHTML= display;
+
+</script>
+
+
+
+
+const volt2 = weatherInfo1.noon;
+const volt3 = weatherInfo1.afternoon;
+const volt4 = weatherInfo1.evening;
+const volt5 = weatherInfo1.night;
+
+
+document.getElementById('noontime').innerHTML=volt2;
+document.getElementById('afternoontime').innerHTML=volt3;
+document.getElementById('eveningtime').innerHTML=volt4;
+document.getElementById('nighttime').innerHTML=volt5;

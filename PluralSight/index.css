@@ -1,0 +1,231 @@
+body{
+  max-width: 960px;
+  height: :50%;
+  margin: auto;
+  font-family: sans-serif;
+  background-color: silver;
+
+
+}
+
+.all{
+  background-color: pink;
+    background-image: url("pexels-pixabay-209831.jpg");
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+}
+
+.search{
+position: relative;
+left: 6px;
+margin: 0.9em;
+  border-radius:0.4em;
+  margin-top: 1.6em;
+
+
+}
+  .btn-primary{
+
+border-radius: 0.6em
+  }
+
+
+p,ul{
+  text-transform: capitalize;
+  font-weight: bold;
+  margin: 0.6em;
+  font-size: 1.3em;
+}
+
+.head{
+  text-transform: capitalize;
+  font-weight: bold;
+  margin-left:  5em;
+
+  float: center;
+}
+
+.container{
+  border-radius:0em;
+
+  margin: 10px;
+  margin-top: 0px;
+
+}
+
+.all1{
+  border-bottom-style: solid;
+}
+.all2{
+  border-bottom-style: solid;
+}
+  .location-temp{
+    margin: 0.6em;
+  }
+
+.imageicon{
+    position: relative;
+    right: 12em;
+    top: 2em;
+  }
+
+
+#country-Name{
+  text-transform:uppercase;
+}
+
+}
+#weatherCondition{
+  font-size: 80%
+}
+#current-Date{
+text-align: right;
+
+
+}
+
+#current-time{
+  text-align: right;
+  margin-bottom: -1 45px;
+
+}
+
+.jug{
+
+  height: :100%;
+  margin: auto;
+
+}
+
+.weatherInfoContainer{
+  border-radius:0.4em;
+
+  height: 25em;
+  margin-right: 30em;
+  margin-top: 0em;
+  margin-left: 10px;
+
+}
+
+.weatherInfo{
+
+  border-radius: 5px;
+  margin: 10px;
+  margin-top: 10px;
+  padding-top: 15px;
+  width: 96%;
+  float: left;
+  clear: right;
+}
+img{
+  margin-top: -18px;
+  float: right;
+}
+
+
+.weatherInfo1{
+
+  border-radius: 5px;
+  margin: 10px;
+  margin-top: 30px;
+  padding-top: 15px;
+width: 96%;
+  float: left;
+  clear: both;
+}
+
+.weatherInfo2{
+
+  border-radius: 5px;
+  margin: 10px;
+  margin-top: 30px;
+  padding-top: 15px;
+  width: 96%;
+  float: left;
+  clear: both;
+}
+
+.weatherInfo3{
+
+  border-radius: 5px;
+  margin: 10px;
+  clear:both;
+  margin-top: -25em;
+  float: right;
+    width: 48%;
+
+
+
+
+
+
+
+}
+
+.time-info{
+
+  margin-left: 30em;
+    height: 20em;
+      margin-top: -25.66em;
+      border-radius: 0.4em;
+}
+
+li{
+  list-style: none;
+color:blue;
+display: inline;
+font-weight: bold;
+text-transform: capitalize;
+text-align: left;
+}
+
+#Condition{
+position: relative;
+left: 4em;
+
+bottom: 1em;
+
+}
+
+#time{
+position: relative;
+bottom: 1em;
+left: -2em;
+
+}
+#morningtime{
+word-spacing: 10em;
+
+}
+
+#noontime{
+word-spacing: 9.5em;
+
+}
+
+#afternoontime{
+word-spacing: 10em;
+
+}
+
+#eveningtime{
+word-spacing: 10em;
+
+}
+
+#midnight{
+word-spacing: 10em;
+
+}
+
+#nighttime{
+word-spacing: 10em;
+
+}
+
+footer{
+  clear:both;
+  text-align: center;
+  text-transform: uppercase;
+}
