@@ -9,8 +9,8 @@ body{
 }
 
 .all{
-  background-color: pink;
-    background-image: url("pexels-pixabay-209831.jpg");
+  
+    background-image: url("./images/pexels-pixabay-209831.jpg");
     border-style: solid;
     border-color: white;
     border-radius: 5px;
